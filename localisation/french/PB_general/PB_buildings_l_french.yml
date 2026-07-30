@@ -1,0 +1,146 @@
+﻿l_french:
+# THIS FILE USE DIFFERENT ORDER FROM VANILLA, KEEP THIS IN MIND WHILE COMPARING FILES #
+# USE THE SAME ORDER AS IN THE PB_buildings_l_english.yml #
+# STATE BUILDINGS #
+infrastructure: "Infrastructure"
+infrastructure_plural: "Infrastructures"
+infrastructure_desc: "Ce type de bâtiment améliore les infrastructures des États, en améliorant les capacités de ravitaillement des régions stratégiques, en permettant aux divisions de se déplacer plus rapidement et en accroissant l'extraction de matières premières."
+air_base: "Base aérienne"
+air_base_plural: "Bases aériennes"
+air_base_desc: "Ce type de bâtiment permet de déployer ses forces aériennes dans l'État."
+anti_air_building: "Installation anti-aérienne"
+anti_air_building_plural: "Installations anti-aériennes"
+anti_air_building_desc: "Ce type de bâtiment protège l'État des bombardiers ennemis en permettant de tirer sur les avions qui l'attaquent."
+radar_station: "Station radar"
+radar_station_plural: "Stations radar"
+radar_station_desc: "Le radiorepérage permet d'obtenir des renseignements sur les troupes ennemies se trouvant dans les États voisins.\nPlus le niveau radar est élevé, plus la portée est importante.\n\nLe radiorepérage permet aussi à l'État de mieux détecter les forces aériennes ennemies pour offrir à vos avions plus de chances de pouvoir les attaquer.\nEn outre, les radars améliorent la détection des flottes ennemies en mer."
+medical_center: "Centre Médical"
+medical_center_plural: "Centres Médicaux"
+medical_center_desc: "Ce bâtiment sert de centre d'approvisionnement médical avancé, fournissant en temps de paix des biens médicaux à la population locale. En temps de guerre, il aide à soigner les blessés."
+research_center: "Pôle De Recherche"
+research_center_plural: "Pôles De Recherche"
+research_center_desc: "Fournit aux scientifiques des installations pour la recherche, renforçant les efforts scientifiques à l'échelle nationale, aussi bien dans le domaine civil que militaire.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!"
+stronghold_network: "Centre De Commande Défensif"
+stronghold_network_plural: "Centres De Commandes Défensifs"
+stronghold_network_desc: "Un complexe défensif massif comprenant des centres de commandes, un réseau de bunkers étendus et un système d'installation anti-aérienne. Conçu pour aider à repousser les attaques ennemies et à fournir du ravitaillement aux unités alliées."
+
+# SHARED BUILDINGS #
+arms_factory: "Usine militaire"
+arms_factory_plural: "Usines militaires"
+arms_factory_desc: "Ce type de bâtiment permet de produire du matériel militaire dans cet État. Si nécessaire, il peut être transformé en usine civile."
+industrial_complex: "Usine civile"
+industrial_complex_plural: "Usines civiles"
+industrial_complex_desc: "Ce type de bâtiment permet de produire des biens civils ou de construire de nouveaux bâtiments dans cet État. Si nécessaire, il peut être transformé en usine militaire."
+dockyard: "Chantier naval"
+dockyard_plural: "Chantiers navals"
+dockyard_desc: "Ce type de bâtiment permet de bénéficier d'industries dédiées à la construction de navires dans cet État."
+synthetic_refinery: "Raffinerie de brut synthétique"
+synthetic_refinery_plural: "Raffineries de brut synthétique"
+synthetic_refinery_desc: "Une usine où du carburant synthétique est produit grâce à divers matériaux bruts.\n\nCe type de bâtiment fournit à l'État:"
+synthetic_refinery_amount: "$VALUE|Y0=$"
+synthetic_refinery_resource: "£resources_strip|$FRAME$"
+mineral_fabricator: "Usine de minéraux synthétiques"
+mineral_fabricator_plural: "Usines de minéraux synthétiques"
+mineral_fabricator_desc: "Ce bâtiment permet la production de minéraux synthétiques à l'aide de diverses méthodes. La quantité et le type de ressources produites dépendent du niveau de développement technologique.\n\nCe bâtiment fournit à l'État :"
+mineral_fabricator_amount: "$VALUE|Y0=$"
+mineral_fabricator_resource: "£resources_strip|$FRAME$"
+agroponics_complex: "Complexe agroponique"
+agroponics_complex_plural: "Complexes agroponiques"
+agroponics_complex_desc: "Complexe conçu pour approvisionner la nation en nourriture. Cette installation est capable d'accueillir à la fois des zones de culture végétale et des installations d'élevage.\n\nCe bâtiment fournit à l'État :"
+agroponics_complex_amount: "$VALUE|Y0=$"
+agroponics_complex_resource: "£resources_strip|$FRAME$"
+fuel_silo: "Cuve à carburant"
+fuel_silo_plural: "Cuves à carburant"
+fuel_silo_desc: "Ce type de bâtiment garantit aux pays des réserves de §Hcarburant§! supplémentaires."
+tesla_tower: "Tour Tesla"
+tesla_tower_plural: "Tours Tesla"
+tesla_tower_desc: "Permet la connexion au réseau national d'énergie sans fil, offrant une alimentation énergétique plus importante et plus efficace. Cependant, les informations transmises par le système sont vulnérables à l'interception par des agences ennemies."
+energy_infrastructure: "Réseau électrique renforcé"
+energy_infrastructure_plural: "Réseaux électriques renforcés"
+energy_infrastructure_desc: "Les lignes électriques renforcées, couplées à des infrastructures énergétiques de redondance, assurent le fonctionnement continu de nos usines en toutes circonstances."
+industrial_infrastructure: "Réseau électrique grande capacité"
+industrial_infrastructure_plural: "Réseaux électriques à hautes capacités"
+industrial_infrastructure_desc: "Décupler l'infrastructure énergétique civile nous permet d'étendre nos capacités de production dans les secteurs de l'industrie lourde."
+mega_gun_emplacement: "Canon multi-charges gros calibre"
+mega_gun_emplacement_plural: "Canons multi-charges"
+mega_gun_emplacement_desc: "Basé sur le principe de la propulsion à charges multiples, ce canon de gros calibre est conçu pour réaliser des bombardements sur des portées inégalées. Grâce à une série de tunnels souterrains, il octroie aux obus des vitesses supersoniques avant de les lancer sur des cibles éloignées."
+rocket_site: "Site de lancement de fusées"
+rocket_site_plural: "Sites de lancement de fusées"
+rocket_site_desc: "Ce type de bâtiment permet de déployer les fusées produites dans l'État."
+commercial_nuclear_reactor: "Réacteur nucléaire civil"
+commercial_nuclear_reactor_plural: "Réacteurs nucléaires civils"
+commercial_nuclear_reactor_desc: "Ce type de bâtiment fournit à l'État de l'uranium enrichi pour produire des armes nucléaires et de l'électricité."
+nuclear_reactor: "Réacteur nucléaire"
+nuclear_reactor_plural: "Réacteurs nucléaires"
+nuclear_reactor_desc: "Ce type de bâtiment permet de produire de l'uranium enrichi dans l'État pour l'utiliser dans les armes nucléaires."
+nuclear_reactor_heavy_water: "Réacteur nucléaire à eau lourde"
+nuclear_reactor_heavy_water_plural: "Réacteurs nucléaires à eau lourde"
+nuclear_reactor_heavy_water_desc: "Ce bâtiment produit de l'uranium enrichi pour l'État à utiliser dans l'armement nucléaire.\nLes réacteurs nucléaires à eau lourde sont moins chers à construire que les réacteurs à graphite, mais sont aussi moins productifs."
+
+# PROVINCE BUILDINGS #
+# supply node and railway in other file, unchanged
+naval_base: "Base navale"
+naval_base_plural: "Bases navales"
+naval_base_desc: "Ce type de bâtiment accroît la portée des flottes et permet de les réparer. Il permet aussi d'assurer le ravitaillement outre-mer et l'exportation des ressources. Un niveau plus élevé accroît la capacité de ravitaillement."
+bunker: "Fort terrestre"
+bunker_plural: "Forts terrestres"
+bunker_desc: "En cas d'attaque, ce type de bâtiment inflige à l'assaillant une pénalité offensive de $VALUE|+%0$ par niveau de fortification. Une attaque venue de plusieurs directions réduit toutefois les effets des forts."
+coastal_bunker: "Fort côtier"
+coastal_bunker_plural: "Forts côtiers"
+coastal_bunker_desc: "En cas de débarquement, ce type de bâtiment inflige à l'assaillant une pénalité offensive de $VALUE|+%0$ par niveau de fortification."
+naval_headquarters: "Quartier général naval"
+naval_headquarters_desc: "Ce bâtiment vous permet de nommer un amiral afin d'augmenter l'efficacité de vos §Yescadres§! opérant à portée du quartier général naval.\n\nVous pouvez affecter des amiraux à un maximum de $MAXNUM|H$ quartiers généraux en même temps.\n   Amiraux affectés : $CURRNUM|H$\n\nVous ne pouvez construire un quartier général naval que dans une province littorale disposant d'une base navale de niveau 8 ou supérieur."
+
+# FACILITIES #
+land_facility: "Bâtiment de combat terrestre"
+land_facility_plural: "Bâtiments de combat terrestre"
+land_facility_desc: "Les installations expérimentales pour la guerre terrestre permettent de lancer des projets de recherche liés à divers aspects de la guerre, comme des chars spéciaux ou de l'artillerie."
+air_facility: "Bâtiment d'aérodynamique et avionique"
+air_facility_plural: "Bâtiments d'aérodynamique et avionique"
+air_facility_desc: "Les installations expérimentales d'aérodynamique et avionique permettent de lancer des projets de recherche liés aux avions, aux fusées ou à leur électronique connexe."
+naval_facility: "Bâtiment d'ingénierie navale"
+naval_facility_plural: "Bâtiments d'ingénierie navale"
+naval_facility_desc: "Les installations expérimentales d'ingénierie navale permettent de lancer des projets de recherche liés aux navires et aux sous-marins.\nCe bâtiment ne peut être construit que dans une province littorale."
+biochem_facility: "Installation de bio-ingénierie et de chimie"
+biochem_facility_plural: "Installations de bio-ingénierie et de chimie"
+biochem_facility_desc: "Les installations expérimentales de bio-ingénierie et de chimie permettent de lancer des projets de recherche liés aux organismes vivants, aux composés chimiques et aux augmentations."
+nuclear_facility: "Bâtiment de recherche nucléaire"
+nuclear_facility_plural: "Bâtiments de recherche nucléaire"
+nuclear_facility_desc: "Les installations expérimentales de recherche nucléaire permettent de lancer des projets de recherche liés à l'énergie nucléaire."
+
+# DAMS #
+dam: "Barrage"
+dam_plural: "Barrages"
+dam_desc: "Les barrages fournissent de l'énergie supplémentaire à un État, améliorant ainsi l'industrie et la production de ressources."
+dam_mountain: "$dam$"
+dam_mountain_plural: "$dam_plural$"
+dam_mountain_desc: "$dam_desc$"
+# CANALS #
+canal_desc: "Des infrastructures sont nécessaires pour permettre au canal de fonctionner à pleine capacité, et leur destruction entraverait la navigation et les déplacements pendant une longue période."
+canal_kiel: "Écluses du canal de Kiel"
+canal_kiel_plural: "$canal_kiel$"
+canal_kiel_desc: "Les écluses sont indispensables au bon fonctionnement du canal de Kiel. Si quelque chose, ou quelqu'un, venait à les détruire, la circulation en serait grandement affectée."
+canal_panama: "Écluses du canal de Panama"
+canal_panama_plural: "$canal_panama$"
+canal_panama_desc: "Les écluses sont indispensables au bon fonctionnement du canal de Panama. Si quelque chose ou quelqu'un venait à les détruire, la circulation en serait grandement affectée."
+canal_australia: "Écluses du canal Janszoon"
+canal_australia_plural: "$canal_australia$"
+canal_australia_desc: "Le $canal_australia$ $canal_desc$."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

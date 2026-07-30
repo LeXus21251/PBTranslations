@@ -1,0 +1,20 @@
+﻿l_french:
+
+  AME_ABILITY_UNDYING_PATRIOTISM: "Patriotisme Immortelle"
+  PB_AME_Undying_Patriotism_tt: "Débloque la compétence §HPatriotisme Immortelle§!, qui est une version amélioré de la compétence §YAttaque Puissante§!\n\n"
+
+  ABILITY_GAS_DEFENSE: "Défence Contre Le Gaz"
+  ABILITY_GAS_DEFENSE_DESC: "Vos armées recevront un bonus de défense au détriment de certains désavantages."
+  ABILITY_GAS_DEFENSE_TOOLTIP: "Défence contre le gaz ($LEADER$)"
+  PB_Gas_Defense_tt: "Débloque la compétence §HDéfence contre le gaz§!, qui est une version amélioré de la compétence §YBaroud D'Honneur§!"
+
+  ABILITY_GAS_ATTACK: "Assaut Au Gaz"
+  ABILITY_GAS_ATTACK_DESC: "Vos armées recevrons un bonus offensive et une attaque amélioré contre les fortifications."
+  ABILITY_GAS_ATTACK_TOOLTIP: "Assaut Au Gaz ($LEADER$)"
+  PB_Gas_Attack_tt: "Débloque la compétence §HAssaut Au Gaz§!, qui accorde une amélioration de l'attaque globale tout en donnant une attaque significativement amélioré contre les §YForts§!"
+
+  ABILITY_ANNIHILATION: "Anéantissement De Soi"
+  ABILITY_ANNIHILATION_DESC: "Pas un pouce de la Prusse ne sera cédé à nos ennemis.Nous défendrons notre grande nation jusqu'au dernier homme !"
+
+  ABILITY_FANATICAL_CHARGE: "Charge Fanatisée"
+  ABILITY_FANATICAL_CHARGE_DESC: "Charge Fanatisée"

@@ -1,0 +1,152 @@
+﻿l_french:
+#######################
+### COMPANIES SLOTS ###
+#######################
+specialized_company: "Companie Spécialisée"
+
+#####################
+### COMPANY TYPES ###
+#####################
+### SPECIALIZED COMPANIES ###
+industrial_manufacturer: "Industrie manufacturière"
+electronics_manufacturer: "Industrie électronique"
+railroad_company: "Compagnie ferroviaire"
+oil_concern: "Groupe pétrolier"
+mining_company: "Compagnie minière"
+chemical_concern: "Groupe chimique"
+energy_company: "Compagnie énergétique"
+construction_company: "Entreprise de construction"
+refinery_company: "Compagnie de raffinage"
+metalworks: "Industrie métallurgique"
+bioengineering_concern: "Groupe de bio-ingénierie"
+agricultural_company: "Compagnie agricole"
+communication_company: "Compagnie de communication"
+soda_manufacturer: "Fabricant de boissons gazeuses"
+fruit_company: "Compagnie fruitière"
+
+### MEGACORPORATIONS ###
+electronics_megacorporation: "Mégacorporation électronique"
+industrial_megacorporation: "Mégacorporation industrielle"
+oil_megacorporation: "Mégacorporation pétrolière"
+mining_megacorporation: "Mégacorporation minière"
+chemical_megacorporation: "Mégacorporation chimique"
+metalworks_megacorporation: "Mégacorporation métallurgique"
+fruit_megacorporation: "Mégacorporation fruitière"
+
+### OTHER ###
+colonial_development_committee: "Conseil du développement colonial"
+
+#########################
+### GENERIC COMPANIES ###
+#########################
+generic_infantry_eq_company: "Entreprise d'équipement d'infanterie"
+generic_artillery_company: "Entreprise d'artillerie"
+generic_motorized_company: "Entreprise de véhicules motorisés"
+generic_tank_company: "Entreprise de landships"
+generic_automat_company: "Entreprise d'automates"
+generic_naval_company: "Entreprise navale"
+generic_light_aircraft_company: "Entreprise d'aviation légère"
+generic_medium_aircraft_company: "Entreprise d'aviation moyenne"
+generic_naval_aircraft_company: "Entreprise d'aviation navale"
+generic_multi_role_aircraft_company: "Entreprise d'avions multirôles"
+generic_helicopter_company: "Entreprise d'hélicoptères"
+generic_industrial_company: "Entreprise industrielle"
+generic_electronics_company: "Entreprise électronique"
+generic_agricultural_company: "Entreprise agricole"
+generic_mining_company: "Entreprise minière"
+generic_transport_company: "Entreprise de transport"
+generic_refinery_company: "Entreprise de raffinage"
+
+##########################
+### ARMY MANUFACTURERS ###
+##########################
+
+### LAND ###
+infantry_equipment_manufacturer_standard: "Fabricant standard d'équipement d'infanterie"
+infantry_equipment_manufacturer_specialized: "Fabricant spécialisé d'équipement d'infanterie"
+infantry_equipment_manufacturer_cheap: "Fabricant d'équipement d'infanterie à bas coût"
+
+artillery_equipment_manufacturer_standard: "Fabricant standard d'artillerie"
+artillery_equipment_manufacturer_specialized: "Fabricant spécialisé d'artillerie"
+artillery_equipment_manufacturer_cheap: "Fabricant d'artillerie à bas coût"
+
+support_equipment_manufacturer: "Fabricant d'équipement de soutien"
+
+mobile_equipment_manufacturer_standard: "Fabricant standard de véhicules motorisés"
+mobile_equipment_manufacturer_specialized: "Fabricant spécialisé de véhicules motorisés"
+mobile_equipment_manufacturer_cheap: "Fabricant de véhicules motorisés à bas coût"
+
+armored_car_manufacturer: "Fabricant de voitures blindées"
+
+general_tank_manufacturer: "Constructeur général de chars"
+general_tank_manufacturer_improved: "Constructeur général de chars amélioré"
+infantry_tank_manufacturer: "Constructeur de chars d'infanterie"
+infantry_tank_manufacturer_improved: "Constructeur de chars d'infanterie amélioré"
+assault_gun_manufacturer: "Constructeur de canons d'assaut"
+assault_gun_manufacturer_improved: "Constructeur de canons d'assaut amélioré"
+mobile_tank_manufacturer: "Constructeur de chars rapides"
+mobile_tank_manufacturer_improved: "Constructeur de chars rapides amélioré"
+medium_tank_manufacturer: "Constructeur de chars moyens"
+medium_tank_manufacturer_improved: "Constructeur de chars moyens amélioré"
+heavy_tank_manufacturer: "Constructeur de chars lourds"
+heavy_tank_manufacturer_improved: "Constructeur de chars lourds amélioré"
+tank_refurbishment_plant: "Usine de rénovation de chars"
+tank_refurbishment_plant_improved: "Usine de rénovation de chars améliorée"
+
+general_automat_manufacturer: "Constructeur général d'automates"
+general_automat_manufacturer_improved: "Constructeur général d'automates amélioré"
+breaker_automat_manufacturer: "Constructeur d'automates de rupture"
+breaker_automat_manufacturer_improved: "Constructeur d'automates de rupture amélioré"
+rapid_automat_manufacturer: "Constructeur d'automates rapides"
+rapid_automat_manufacturer_improved: "Constructeur d'automates rapides amélioré"
+duopod_automat_manufacturer: "Constructeur d'automates bipèdes"
+duopod_automat_manufacturer_improved: "Constructeur d'automates bipèdes amélioré"
+tripod_automat_manufacturer: "Constructeur d'automates tripodes"
+tripod_automat_manufacturer_improved: "Constructeur d'automates tripodes amélioré"
+quadrupod_automat_manufacturer: "Constructeur d'automates quadrupèdes"
+quadrupod_automat_manufacturer_improved: "Constructeur d'automates quadrupèdes amélioré"
+
+##############################
+### AIRCRAFT MANUFACTURERS ###
+##############################
+general_aircraft_manufacturer: "$generic_mio_initial_trait_general_aircraft_designer$"
+general_aircraft_manufacturer_improved: "$general_aircraft_manufacturer$"
+light_aircraft_manufacturer: "$generic_mio_initial_trait_light_aircraft_designer$"
+light_aircraft_manufacturer_improved: "$light_aircraft_manufacturer$"
+medium_aircraft_manufacturer: "$generic_mio_initial_trait_medium_aircraft_designer$"
+medium_aircraft_manufacturer_improved: "$medium_aircraft_manufacturer$"
+heavy_aircraft_manufacturer: "$generic_mio_initial_trait_heavy_aircraft_designer$"
+heavy_aircraft_manufacturer_improved: "$heavy_aircraft_manufacturer$"
+cas_aircraft_manufacturer: "$generic_mio_initial_trait_cas_aircraft_designer$"
+cas_aircraft_manufacturer_improved: "$cas_aircraft_manufacturer$"
+naval_aircraft_manufacturer: "$generic_mio_initial_trait_naval_aircraft_designer$"
+naval_aircraft_manufacturer_improved: "$naval_aircraft_manufacturer$"
+multi_role_aircraft_manufacturer: "$generic_mio_initial_trait_multi_role_aircraft_designer$"
+multi_role_aircraft_manufacturer_improved: "$multi_role_aircraft_manufacturer$"
+high_agility_fighter_aircraft_manufacturer: "$generic_mio_initial_trait_multi_role_aircraft_designer$"
+high_agility_fighter_aircraft_manufacturer_improved: "$high_agility_fighter_aircraft_manufacturer$"
+range_focused_aircraft_manufacturer: "$generic_mio_initial_trait_range_focused_aircraft_designer$"
+range_focused_aircraft_manufacturer_improved: "$range_focused_aircraft_manufacturer$"
+transport_aircraft_manufacturer: "$generic_mio_initial_trait_transport_aircraft_designer$"
+transport_aircraft_manufacturer_improved: "$transport_aircraft_manufacturer$"
+helicopter_manufacturer: "$generic_mio_initial_trait_helicopter_designer$"
+helicopter_manufacturer_improved: "$helicopter_manufacturer$"
+
+############################
+### NAVAL MANUFACTURERS ###
+############################
+task_force_ship_manufacturer: "$generic_mio_initial_trait_task_force_ship_builders$"
+task_force_ship_manufacturer_improved: "$task_force_ship_manufacturer$"
+battle_line_ship_manufacturer: "$generic_mio_initial_trait_battle_line_ship_builders$"
+battle_line_ship_manufacturer_improved: "$battle_line_ship_manufacturer$"
+escort_ship_manufacturer: "$generic_mio_initial_trait_escort_fleet$"
+escort_ship_manufacturer_improved: "$escort_ship_manufacturer$"
+raider_ship_manufacturer: "$generic_mio_initial_trait_raiding_fleet$"
+raider_ship_manufacturer_improved: "$raider_ship_manufacturer$"
+submarine_manufacturer: "$generic_mio_initial_trait_submarine_designer$"
+submarine_manufacturer_improved: "$submarine_manufacturer$"
+small_fleet_manufacturer: "$generic_mio_initial_trait_small_fleet_designer$"
+small_fleet_manufacturer_improved: "$small_fleet_manufacturer$"
+refurbishment_repair_dockyard: "$generic_mio_refurbishment_repair_dockyard_organization$"
+refurbishment_repair_dockyard_improved: "$refurbishment_repair_dockyard$"
+merchant_navy_manufacturer: "Merchant Navy Manufacturer"
