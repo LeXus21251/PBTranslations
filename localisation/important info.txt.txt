@@ -1,0 +1,5 @@
+Some of the loc files include unchanged vanilla localisation so please verify then before translating on your own, we prefer consistency across the languages.
+
+If some locs are too long to fit into buton you can either shorten them or use alternative (example: Play With Friend - Multiplayer)
+
+change files names to <filename>_l_<language> as well as line on top of the file to l_<language>
