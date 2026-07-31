@@ -1,0 +1,20 @@
+﻿l_polish:
+
+  AME_ABILITY_UNDYING_PATRIOTISM: "Wieczny Patriotyzm"
+  PB_AME_Undying_Patriotism_tt: "Odblokowuje umiejętność §HWieczny Patriotyzm§!, która jest ulepszoną wersją §YNatarcia§!  \n\n"
+
+  ABILITY_GAS_DEFENSE: "Obrona Chemiczna"
+  ABILITY_GAS_DEFENSE_DESC: "Twoje armie otrzymają premię do obrony kosztem pewnych niedogodności."
+  ABILITY_GAS_DEFENSE_TOOLTIP: "Obrona Chemiczna ($LEADER$)"
+  PB_Gas_Defense_tt: "dblokowuje umiejętność §HObrona Chemiczna§!, która jest ulepszoną wersją §YNatarcia§!"
+
+  ABILITY_GAS_ATTACK: "Atak Chemiczny"
+  ABILITY_GAS_ATTACK_DESC: "Twoje armie otrzymają premię do obrony kosztem pewnych niedogodności."
+  ABILITY_GAS_ATTACK_TOOLTIP: "Atak Chemiczny ($LEADER$)"
+  PB_Gas_Attack_tt: "dblokowuje umiejętność §HAtak Chemiczny§!, która wzmacnia ogólny atak oraz znacznie przeciw §YFortom§!"
+
+  ABILITY_ANNIHILATION: "Unicestwienie Własnego Ja"
+  ABILITY_ANNIHILATION_DESC: "Nawet centymetr Pruskiej ziemii nie wpadnie w ręce wroga, będziemy bronić naszej wspaniałej ojczyzny wszystkim co mamy."
+
+  ABILITY_FANATICAL_CHARGE: "Fanatyczna Szarża"
+  ABILITY_FANATICAL_CHARGE_DESC: "Fanatyczna Szarża"

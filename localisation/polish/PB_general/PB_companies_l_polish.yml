@@ -1,37 +1,37 @@
-﻿l_english:
+﻿l_polish:
 #######################
 ### COMPANIES SLOTS ###
 #######################
-specialized_company: "Specialized Company"
+specialized_company: "Specjalistyczna Firma"
 
 #####################
 ### COMPANY TYPES ###
 #####################
 ### SPECIALIZED COMPANIES ###
-industrial_manufacturer: "Industrial Manufacturer"
-electronics_manufacturer: "Electronics Manufacturer"
-railroad_company: "Railroad Company"
-oil_concern: "Oil Concern"
-mining_company: "Mining Company"
-chemical_concern: "Chemical Concern"
-energy_company: "Energy Company"
-construction_company: "Construction Company"
-refinery_company: "Refinery Company"
-metalworks: "Metalworks"
-bioengineering_concern: "Bioengineering Concern"
-agricultural_company: "Agricultural Company"
-communication_company: "Communication Company"
-soda_manufacturer: "Soda Manufacturer"
-fruit_company: "Fruit Company"
+industrial_concern: "Koncern przemysłowy"
+electronics_manufacturer: "Producent elektroniki"
+railroad_company: "Przedsiębiorstwo kolejowe"
+oil_concern: "Koncernt naftowy"
+mining_company: "Przedsiębiortwo górnicze"
+chemical_concern: "Koncern chemiczny"
+energy_company: "Przedsiębiortwo energetyczne"
+construction_company: "Przedsiębiortwo budowlane"
+refinery_company: "Przedsiębiortwo rafineryjne"
+metalworks: "Koncern metalurgiczny"
+bioengineering_concern: "Koncern bioinżynieryjny"
+agricultural_company: "Koncern agrokulturalny"
+communication_company: "Przedsiębiortwo komunikacyjne"
+soda_manufacturer: "Producent napojów gazowanych"
+fruit_company: "Przedsiębiortwo owocowe"
 
 ### MEGACORPORATIONS ###
-electronics_megacorporation: "Electronics Megacorporation"
-industrial_megacorporation: "Industrial Megacorporation"
-oil_megacorporation: "Oil Megacorporation"
-mining_megacorporation: "Mining Megacorporation"
-chemical_megacorporation: "Chemical Megacorporation"
-metalworks_megacorporation: "Metalworks Megacorporation"
-fruit_megacorporation: "Fruit Megacorporation"
+electronics_megacorporation: "Megakorporacja elektroniczna"
+industrial_megacorporation: "Megakorporacja przemysłowa"
+oil_megacorporation: "Megakorporacja naftowa"
+mining_megacorporation: "Megakorporacja górnicza"
+chemical_megacorporation: "Megakorporacja chemiczna"
+metalworks_megacorporation: "Megakorporacja metalurgiczna"
+fruit_megacorporation: "Megakorporacja owocowa"
 
 ### OTHER ###
 colonial_development_committee: "Colonial Development Committee"
@@ -39,42 +39,42 @@ colonial_development_committee: "Colonial Development Committee"
 #########################
 ### GENERIC COMPANIES ###
 #########################
-generic_infantry_eq_company: "Infanry Equipment Company"
-generic_artillery_company: "Artillery Company"
-generic_motorized_company: "Motorized Company"
-generic_tank_company: "Landship Company"
-generic_automat_company: "Automat Company"
-generic_naval_company: "Naval Company"
-generic_light_aircraft_company: "Light Aircraft Company"
-generic_medium_aircraft_company: "Medium Aircraft Company"
-generic_naval_aircraft_company: "Naval Aircraft Company"
-generic_multi_role_aircraft_company: "Multi-Role Aircraft Company"
-generic_helicopter_company: "Helicopter Company"
-generic_industrial_company: "Industrial Company"
-generic_electronics_company: "Electronics Company"
-generic_agricultural_company: "Agricultural Company"
-generic_mining_company: "Mining Company"
-generic_transport_company: "Transport Company"
-generic_refinery_company: "Refinery Company"
+generic_infantry_eq_company: "Przedsiębiorstwo wyposażenia piechoty"
+generic_artillery_company: "Przedsiębiorstwo artyleryjskie"
+generic_motorized_company: "Przedsiębiorstwo motoryzacyjne"
+generic_tank_company: "Przedsiębiorstwo lądokrętów"
+generic_automat_company: "Przedsiębiorstwo automatów"
+generic_naval_company: "Przedsiębiorstwo stoczniowe"
+generic_light_aircraft_company: "Przedsiębiorstwo lekkich statków powietrznych"
+generic_medium_aircraft_company: "Przedsiębiorstwo średnich statków powietrznych"
+generic_naval_aircraft_company: "Przedsiębiorstwo lotnictwa morskiego"
+generic_multi_role_aircraft_company: "Przedsiębiorstwo wielozadaniowych statków powietrznych"
+generic_helicopter_company: "Przedsiębiorstwo śmigłowcowe"
+generic_industrial_company: "Przedsiębiorstwo przemysłowe"
+generic_electronics_company: "Przedsiębiorstwo elektroniczne"
+generic_agricultural_company: "Przedsiębiorstwo rolnicze"
+generic_mining_company: "Przedsiębiorstwo górnicze"
+generic_transport_company: "Przedsiębiorstwo transportowe"
+generic_refinery_company: "Przedsiębiorstwo rafineryjne"
 
 ##########################
 ### ARMY MANUFACTURERS ###
 ##########################
 
 ### LAND ###
-infantry_equipment_manufacturer_standard: "Standard Infantry Equipment Manufacturer"
-infantry_equipment_manufacturer_specialized: "Specialized Infantry Equipment Manufacturer"
-infantry_equipment_manufacturer_cheap: "Cheap Infantry Equipment Manufacturer"
+infantry_equipment_manufacturer_standard: "Producent standardowego wyposażenia piechoty"
+infantry_equipment_manufacturer_specialized: "Producent specjalistycznego wyposażenia piechoty"
+infantry_equipment_manufacturer_cheap: "Producent taniego wyposażenia piechoty"
 
-artillery_equipment_manufacturer_standard: "Standard Artillery Manufacturer"
-artillery_equipment_manufacturer_specialized: "Specialized Artillery Manufacturer"
-artillery_equipment_manufacturer_cheap: "Cheap Artillery Manufacturer"
+artillery_equipment_manufacturer_standard: "Producent standardowej artylerii"
+artillery_equipment_manufacturer_specialized: "Producent specjalistycznej artylerii"
+artillery_equipment_manufacturer_cheap: "Producent taniej artylerii"
 
 support_equipment_manufacturer: "$generic_mio_initial_trait_support_equipment_manufacturer$"
 
-mobile_equipment_manufacturer_standard: "Standard Mobile Equipment Manufacturer"
-mobile_equipment_manufacturer_specialized: "Specialized Mobile Equipment Manufacturer"
-mobile_equipment_manufacturer_cheap: "Cheap Mobile Equipment Manufacturer"
+mobile_equipment_manufacturer_standard: "Producent standardowych pojazdów wojskowych"
+mobile_equipment_manufacturer_specialized: "Producent specjalistycznych pojazdów wojskowych"
+mobile_equipment_manufacturer_cheap: "Producent tanich pojazdów wojskowych"
 
 armored_car_manufacturer: "$generic_mio_initial_trait_armored_car_manufacturer$"
 
@@ -149,4 +149,4 @@ small_fleet_manufacturer: "$generic_mio_initial_trait_small_fleet_designer$"
 small_fleet_manufacturer_improved: "$small_fleet_manufacturer$"
 refurbishment_repair_dockyard: "$generic_mio_refurbishment_repair_dockyard_organization$"
 refurbishment_repair_dockyard_improved: "$refurbishment_repair_dockyard$"
-merchant_navy_manufacturer: "Merchant Navy Manufacturer"
+merchant_navy_manufacturer: "Producent floty handlowej"

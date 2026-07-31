@@ -1,0 +1,146 @@
+﻿l_polish:
+# THIS FILE USE DIFFERENT ORDER FROM VANILLA, KEEP THIS IN MIND WHILE COMPARING FILES #
+# USE THE SAME ORDER AS IN THE PB_buildings_l_english.yml #
+# STATE BUILDINGS #
+infrastructure: "Infrastruktura"
+infrastructure_plural: "Infrastruktura"
+infrastructure_desc: "Ten budynek zwiększa poziom infrastruktury regionu, co umożliwia sprawniejsze przerzucanie zaopatrzenia i przemieszczanie dywizji, a także zwiększa ilość wydobywanych surowców naturalnych."
+air_base: "Baza lotnicza"
+air_base_plural: "Bazy powietrzne"
+air_base_desc: "Ten budynek umożliwia wystawienie sił powietrznych w regionie."
+anti_air_building: "Obrona przeciwlotnicza"
+anti_air_building_plural: "Obrona przeciwlotnicza"
+anti_air_building_desc: "Ten budynek zapewnia obronę przed bombowcami wroga w regionie i umożliwia ostrzeliwanie atakujących samolotów."
+radar_station: "Stacja radarowa"
+radar_station_plural: "Stacje radarowe"
+radar_station_desc: "Radar pozwala ci zdobywać informacje o wojskach wroga w pobliskich regionach.\nWyższy poziom radaru zwiększa jego zasięg działania.\nRadar ułatwia także wykrywanie lotnictwa wroga, co daje twoim samolotom większą szansę na neutralizację zagrożenia.\nDzięki temu rozwiązaniu także wrogie floty wykryć można z większej odległości."
+medical_center: "Centrum medyczne"
+medical_center_plural: "Centra medyczne"
+medical_center_desc: "Budynek ten pełni funkcję zaawansowanego centrum zaopatrzenia medycznego, dostarczając lokalnej ludności środki medyczne w czasie pokoju. Podczas wojny wspiera leczenie rannych jednostek oraz działania medyczne."
+research_center: "Ośrodek badawczy"
+research_center_plural: "Ośrodki badawcze"
+research_center_desc: "Zapewnia naukowcom zaawansowane zaplecze do prowadzenia badań, wzmacniając krajowy rozwój naukowy zarówno w dziedzinach cywilnych, jak i wojskowych.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!"
+stronghold_network: "Centrum dowodzenia obroną"
+stronghold_network_plural: "Centra dowodzenia obroną"
+stronghold_network_desc: "Ogromny kompleks obronny zawierający centra dowodzenia, rozległą sieć bunkrów oraz systemy przeciwlotnicze. Zaprojektowany w celu wspierania odpierania ataków wroga oraz zaopatrywania przyjaznych jednostek."
+
+# SHARED BUILDINGS #
+arms_factory: "Zakład zbrojeniowy"
+arms_factory_plural: "Zakłady zbrojeniowe"
+arms_factory_desc: "Ta fabryka umożliwia produkcję nowego wyposażenia wojskowego w regionie. Może być przekształcona w fabrykę cywilną."
+industrial_complex: "Kompleks przemysłowy"
+industrial_complex_plural: "Kompleksy przemysłowe"
+industrial_complex_desc: "Ta fabryka umożliwia produkcję dóbr konsumpcyjnych i wznoszenie nowych budynków w regionie. Może być przekształcona w fabrykę wojskową."
+dockyard: "Stocznia"
+dockyard_plural: "Stocznie"
+dockyard_desc: "Ten budynek umożliwia budowę nowych okrętów w regionie."
+synthetic_refinery: "Rafineria paliw syntetycznych"
+synthetic_refinery_plural: "Rafinerie paliw syntetycznych"
+synthetic_refinery_desc: "Obiekt przemysłowy zajmujący się produkcją paliwa syntetycznego z różnorodnych surowców.\n\nTen budynek zapewnia w regionie:"
+synthetic_refinery_amount: "$VALUE|Y0=$"
+synthetic_refinery_resource: "£resources_strip|$FRAME$"
+mineral_fabricator: "Fabrykator minerałów syntetycznych"
+mineral_fabricator_plural: "Fabrykatory minerałów syntetycznych"
+mineral_fabricator_desc: "Budynek ten umożliwia produkcję syntetycznych minerałów przy użyciu różnorodnych metod. Ilość oraz rodzaj wytwarzanych produktów zależą od poziomu zaawansowania technologicznego.\n\nTen budynek zapewnia w regionie:"
+mineral_fabricator_amount: "$VALUE|Y0=$"
+mineral_fabricator_resource: "£resources_strip|$FRAME$"
+agroponics_complex: "Kompleks agroponiczny"
+agroponics_complex_plural: "Kompleksy agroponiczne"
+agroponics_complex_desc: "Kompleks zaprojektowany w celu zapewnienia państwu dostaw żywności. Obiekt ten umożliwia zarówno uprawę roślin, jak i hodowlę zwierząt.\n\nTen budynek zapewnia w regionie:"
+agroponics_complex_amount: "$VALUE|Y0=$"
+agroponics_complex_resource: "£resources_strip|$FRAME$"
+fuel_silo: "Zbiornik paliwowy"
+fuel_silo_plural: "Zbiorniki paliwowe"
+fuel_silo_desc: "Ten budynek zapewnia twojemu krajowi więcej miejsca na składowanie §Hpaliwa§!."
+tesla_tower: "Wieża Tesli"
+tesla_tower_plural: "Wieże Tesli"
+tesla_tower_desc: "Umożliwia podłączenie do krajowej bezprzewodowej sieci energetycznej, zapewniając większe i wydajniejsze dostawy energii. Jednak informacje przesyłane przez system są podatne na przechwycenie przez wrogie agencje."
+energy_infrastructure: "Wzmocniona sieć elektryczna"
+energy_infrastructure_plural: "Wzmocnione sieci elektryczne"
+energy_infrastructure_desc: "Wzmocnione przewody elektryczne i infrastruktura zasilająca z systemem wielokrotnej redundancji gwarantują produkcję naszych fabryk bez względu na warunki."
+industrial_infrastructure: "Sieć elektryczna o wysokiej wydajności"
+industrial_infrastructure_plural: "Sieci elektryczne o wysokiej wydajności"
+industrial_infrastructure_desc: "Wzmocnienia istniejącej cywilnej infrastruktury zasilającej zapewniają nam większą wydajność złożonych operacji przemysłowych."
+mega_gun_emplacement: "Stanowisko działa dużego kalibru"
+mega_gun_emplacement_plural: "Stanowiska dział dużego kalibru"
+mega_gun_emplacement_desc: "Działając na zasadzie miotania wieloładunkowego, to działo dużego kalibru stworzono w celu osiągnięcia niezrównanych zasięgów ostrzału. Wykorzystując sieć podziemnych tuneli, przyspiesza pociski do prędkości naddźwiękowych, a następnie wystrzeliwuje je w kierunku odległych celów."
+rocket_site: "Ośrodek rakietowy"
+rocket_site_plural: "Ośrodki rakietowe"
+rocket_site_desc: "Ten budynek umożliwia wystawienie w regionie wyprodukowanych rakiet."
+commercial_nuclear_reactor: "Cywilny reaktor jądrowy"
+commercial_nuclear_reactor_plural: "Cywilne reaktory jądrowe"
+commercial_nuclear_reactor_desc: "Ten budynek dostarcza państwu wzbogacony uran do broni jądrowej, a także wytwarza energię elektryczną dla cywilnej gospodarki."
+nuclear_reactor: "Reaktor jądrowy"
+nuclear_reactor_plural: "Reaktory jądrowe"
+nuclear_reactor_desc: "Ten budynek umożliwia wzbogacanie w regionie uranu, który służy do produkcji broni jądrowej."
+nuclear_reactor_heavy_water: "Reaktor jądrowy na ciężką wodę"
+nuclear_reactor_heavy_water_plural: "Reaktory jądrowe na ciężką wodę"
+nuclear_reactor_heavy_water_desc: "Ten budynek umożliwia w regionie wzbogacanie uranu, który służy do produkcji broni jądrowej.\nReaktory jądrowe wykorzystujące ciężką wodę są nieco tańsze w budowie niż reaktory grafitowe, ale wytwarzają mniej materiału, który można wykorzystać do produkcji broni jądrowej."
+
+# PROVINCE BUILDINGS #
+# supply node and railway in other file, unchanged
+naval_base: "Baza morska"
+naval_base_plural: "Bazy morskie"
+naval_base_desc: "Zwiększa zasięg twojej floty i zapewnia jej obsługę techniczną. Umożliwia dostarczanie zaopatrzenia drogą morską oraz eksport zasobów. Wyższe poziomy zwiększają przepustowość zaopatrzenia."
+bunker: "Fortyfikacje lądowe"
+bunker_plural: "Fortyfikacje lądowe"
+bunker_desc: "Podczas walki ten budynek nakłada na agresora karę do ataku wynoszącą $VALUE|+%0$ za każdy poziom fortyfikacji."
+coastal_bunker: "Fortyfikacje brzegowe"
+coastal_bunker_plural: "Fortyfikacje brzegowe"
+coastal_bunker_desc: "Podczas desantu morskiego ten budynek nakłada na agresora karę do ataku wynoszącą $VALUE|+%0$ za każdy poziom fortyfikacji."
+naval_headquarters: "Sztab marynarki wojennej"
+naval_headquarters_desc: "Budowla ta pozwala ci przydzielić admirała, który zwiększy skuteczność §Ygrup operacyjnych§! działających w zasięgu sztabu marynarki wojennej.\n\nMożesz mieć jednocześnie do $MAXNUM|H$ sztabów z przydzielonymi admirałami.\n   Obecnie przydzielonych: $CURRNUM|H$\n\nSztab marynarki wojennej może powstać tylko w prowincji nadmorskiej, w której znajduje się baza morska co najmniej 8. poziomu."
+
+# FACILITIES #
+land_facility: "Ośrodek wojsk lądowych"
+land_facility_plural: "Ośrodki wojsk lądowych"
+land_facility_desc: "Eksperymentalne ośrodki wojsk lądowych pozwalają uruchomić projekty badawcze związane z różnymi aspektami działań lądowych, takimi jak wykorzystanie czołgów specjalnych czy artylerii."
+air_facility: "Ośrodek aerodynamiki i awioniki"
+air_facility_plural: "Ośrodki aerodynamiki i awioniki"
+air_facility_desc: "Eksperymentalne ośrodki aerodynamiki i awioniki umożliwiają rozpoczęcie projektów badawczych dotyczących samolotów, rakiet i przeznaczonej dla nich elektroniki."
+naval_facility: "Ośrodek inżynierii morskiej"
+naval_facility_plural: "Ośrodki inżynierii morskiej"
+naval_facility_desc: "Eksperymentalne ośrodki inżynierii morskiej pozwalają uruchomić projekty badawcze związane z okrętami nawodnymi i podwodnymi.\nPlacówkę inżynierii morskiej można stworzyć tylko w prowincji nadmorskiej."
+biochem_facility: "Placówka badań nad bioinżynierią i chemią"
+biochem_facility_plural: "Placówki badań nad bioinżynierią i chemią"
+biochem_facility_desc: "Eksperymentalne ośrodki badań nad bioinżynierią i chemią umożliwiają rozpoczęcie projektów badawczych związanych żywymi organizamami, związkami chemicznymi oraz wzmacnianiem ciała."
+nuclear_facility: "Placówka badań jądrowych"
+nuclear_facility_plural: "Placówki badań jądrowych"
+nuclear_facility_desc: "Eksperymentalne ośrodki badań jądrowych umożliwiają rozpoczęcie projektów badawczych związanych z wykorzystaniem energii jądrowej."
+
+# DAMS #
+dam: "Zapora"
+dam_plural: "Zapory"
+dam_desc: "Zapory dostarczają państwu dodatkową energię, wzmacniają przemysł i produkcję zasobów."
+dam_mountain: "$dam$"
+dam_mountain_plural: "$dam_plural$"
+dam_mountain_desc: "$dam_desc$"
+# CANALS #
+canal_desc: "są niezbędne, aby mógły one działać z maksymalną wydajnością, a zniszczenie ich osłabiłoby na długo ruch i przepływ towarów."
+canal_kiel: "Śluzy kanału Holsztyńskiego"
+canal_kiel_plural: "$canal_kiel$"
+canal_kiel_desc: "$canal_kiel$ $canal_desc$."
+canal_panama: "Śluzy kanału Nikaraguańskiego"
+canal_panama_plural: "$canal_panama$"
+canal_panama_desc: "$canal_panama$ $canal_desc$."
+canal_australia: "Śluzy kanału Janszoona"
+canal_australia_plural: "$canal_australia$"
+canal_australia_desc: "$canal_australia$ $canal_desc$."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
