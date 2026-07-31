@@ -1,0 +1,20 @@
+﻿l_russian:
+
+  AME_ABILITY_UNDYING_PATRIOTISM: "Вечный патриотизм"
+  PB_AME_Undying_Patriotism_tt: "Разблокирует приказ §HВечный патриотизм§!, который является улучшенной версией приказа §YВынужденная атака§!\n\n"
+
+  ABILITY_GAS_DEFENSE: "Газовая Защита"
+  ABILITY_GAS_DEFENSE_DESC: "Ваши армии получают бонус к защите за счет некоторых уязвимостей."
+  ABILITY_GAS_DEFENSE_TOOLTIP: "Газовая защита ($LEADER$)"
+  PB_Gas_Defense_tt: "Разблокирует приказ §HГазовая Защита§!, который является улучшенной версией приказа §YПоследний рубеж§!"
+
+  ABILITY_GAS_ATTACK: "Газовая Атака"
+  ABILITY_GAS_ATTACK_DESC: "Ваши армии получат бонус к атаке и улучшенную атаку по укреплениям."
+  ABILITY_GAS_ATTACK_TOOLTIP: "Газовая атака ($LEADER$)"
+  PB_Gas_Attack_tt: "Разблокирует приказ §HГазовая атака§!, который дает бонус к атаке и значительно улучшенную атаку по §Yукреплениям§!"
+
+  ABILITY_ANNIHILATION: "Уничтожение себя"
+  ABILITY_ANNIHILATION_DESC: "Ни один дюйм Пруссии не будет уступлен нашим врагам, мы будем защищать нашу великую страну со всеми силами."
+
+  ABILITY_FANATICAL_CHARGE: "Фанатичная атака"
+  ABILITY_FANATICAL_CHARGE_DESC: "Фанатичная атака"
