@@ -19,7 +19,7 @@ medical_center_plural: "Centra medyczne"
 medical_center_desc: "Budynek ten pełni funkcję zaawansowanego centrum zaopatrzenia medycznego, dostarczając lokalnej ludności środki medyczne w czasie pokoju. Podczas wojny wspiera leczenie rannych jednostek oraz działania medyczne."
 research_center: "Ośrodek badawczy"
 research_center_plural: "Ośrodki badawcze"
-research_center_desc: "Zapewnia naukowcom zaawansowane zaplecze do prowadzenia badań, wzmacniając krajowy rozwój naukowy zarówno w dziedzinach cywilnych, jak i wojskowych.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!"
+research_center_desc: "Zapewnia naukowcom zaawansowane zaplecze do prowadzenia badań, wzmacniając krajowy rozwój naukowy zarówno w dziedzinach cywilnych, jak i wojskowych.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!\n§Y$MODIFIER_SPECIAL_PROJECT_SPEED_FACTOR$:§! §G+0.25%§!"
 stronghold_network: "Centrum dowodzenia obroną"
 stronghold_network_plural: "Centra dowodzenia obroną"
 stronghold_network_desc: "Ogromny kompleks obronny zawierający centra dowodzenia, rozległą sieć bunkrów oraz systemy przeciwlotnicze. Zaprojektowany w celu wspierania odpierania ataków wroga oraz zaopatrywania przyjaznych jednostek."
@@ -126,21 +126,8 @@ canal_panama_desc: "$canal_panama$ $canal_desc$."
 canal_australia: "Śluzy kanału Janszoona"
 canal_australia_plural: "$canal_australia$"
 canal_australia_desc: "$canal_australia$ $canal_desc$."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# OTHERS #
+space_port: "Port Kosmiczny"
+space_port_plural: "Porty Kosmiczne"
+space_port_desc: "Facility dedicated to the construction, maintenance, and launching of rockets, serving as the foundation of a nation's space exploration programme."
+space_port_desc: "Ośrodek dedykowany budowie, utrzymaniu oraz wystrzeliwaniu rakiet, jest on fundamentem programu kosmicznego."

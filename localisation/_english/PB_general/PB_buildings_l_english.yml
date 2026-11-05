@@ -19,7 +19,7 @@ medical_center_plural: "Medical Centers"
 medical_center_desc: "This building serves as an advanced medical supply center, providing local residents with medical resources during peacetime. During wartime, it assists in treating wounded units."
 research_center: "Research Campus"
 research_center_plural: "Research Campuses"
-research_center_desc: "Provides scientists with facilities for research, strengthening nationwide scientific efforts in both civilian and military fields.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!"
+research_center_desc: "Provides scientists with facilities for research, strengthening nationwide scientific efforts in both civilian and military fields.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!\n§Y$MODIFIER_SPECIAL_PROJECT_SPEED_FACTOR$:§! §G+0.25%§!"
 stronghold_network: "Defensive Command Center"
 stronghold_network_plural: "Defensive Command Center"
 stronghold_network_desc: "A massive defensive complex containing command centers, an extensive network of bunkers, and anti-aircraft systems. Designed to help repel enemy attacks and provide supplies to friendly units."
@@ -126,21 +126,7 @@ canal_panama_desc: "The $canal_panama$ $canal_desc$."
 canal_australia: "Janszoon Canal Locks"
 canal_australia_plural: "$canal_australia$"
 canal_australia_desc: "The $canal_australia$ $canal_desc$."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# OTHERS #
+space_port: "Space Port"
+space_port_plural: "Space Ports"
+space_port_desc: "Facility dedicated to the construction, maintenance, and launching of rockets, serving as the foundation of a nation's space exploration programme."
