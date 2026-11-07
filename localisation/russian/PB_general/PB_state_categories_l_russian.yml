@@ -18,7 +18,7 @@
 
   STATE_CATEGORY_wasteland: "Пустошь"
 
-  STATE_CATEGORY_tiny_island: "Удаленный остров"
+  STATE_CATEGORY_tiny_island: "Крохотный остров"
   STATE_CATEGORY_small_island: "Маленький остров"
   STATE_CATEGORY_medium_island: "Средний остров"
   STATE_CATEGORY_large_island: "Крупный остров"

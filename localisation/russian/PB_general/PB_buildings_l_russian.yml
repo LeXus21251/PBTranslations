@@ -19,7 +19,7 @@ medical_center_plural: "Медицинские центры"
 medical_center_desc: "Это сооружение служит современным центром снабжения медицинскими средствами, обеспечивая местных жителей необходимыми ресурсами в мирное время. В военное время оно помогает в лечении раненых военнослужащих."
 research_center: "Исследовательский центр"
 research_center_plural: "Исследовательские центры"
-research_center_desc: "Предоставляет ученым научно-исследовательскую базу, укрепляя общенациональный научный потенциал как в гражданской, так и в военной сфере.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!"
+research_center_desc: "Предоставляет ученым научно-исследовательскую базу, укрепляя общенациональный научный потенциал как в гражданской, так и в военной сфере.\n\n§Y$MODIFIER_RESEARCH_SPEED_FACTOR$:§! §G+0.5%§!\n§Y$MODIFIER_SPECIAL_PROJECT_SPEED_FACTOR$:§! §G+0.25%§!"
 stronghold_network: "Командный центр обороны"
 stronghold_network_plural: "Командные центры обороны"
 stronghold_network_desc: "Обширная оборонительная система из массивных бункеров, сильно укрепленных позиций и ПВО. Предназначен для отражения атак противника и снабжения дружественных подразделений."
@@ -117,30 +117,16 @@ dam_mountain_plural: "$dam_plural$"
 dam_mountain_desc: "$dam_desc$"
 # CANALS #
 canal_desc: "необходимы для полноценного функционирования канала. Их разрушение надолго ограничит возможности передвижения и транспортировки грузов."
-canal_kiel: "Шлюзы Гольштейнского Канала"
+canal_kiel: "Шлюзы Гольштейнского канала"
 canal_kiel_plural: "$canal_kiel$"
 canal_kiel_desc: "$canal_kiel$ $canal_desc$."
-canal_panama: "Шлюзы Никарагуанского Канала"
+canal_panama: "Шлюзы Никарагуанского канала"
 canal_panama_plural: "$canal_panama$"
 canal_panama_desc: "$canal_panama$ $canal_desc$."
-canal_australia: "Шлюзы Янсзонского Канала"
+canal_australia: "Шлюзы Янсзонского канала"
 canal_australia_plural: "$canal_australia$"
 canal_australia_desc: "$canal_australia$ $canal_desc$."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# OTHERS #
+space_port: "Космодром"
+space_port_plural: "Космодромы"
+space_port_desc: "Это сооружение нацелено на конструкцию, обслуживание и запуск ракет, служа основой национальной программы освоения космоса."
